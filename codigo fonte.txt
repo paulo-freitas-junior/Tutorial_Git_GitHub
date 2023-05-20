@@ -1,1 +1,2 @@
 Primeira linha de código
+Segunda linha de código para criação da Versão 2 do arquivo
